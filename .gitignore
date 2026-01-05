@@ -1,3 +1,17 @@
+Objects/
+Listings/
+DebugConfig/
+build/
+.vscode/
+.eide/
+*.scvd
+*.bak
+*.tmp
+*.uvguix.*
+
+
+
+
 # Prerequisites
 *.d
 
