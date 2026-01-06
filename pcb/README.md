@@ -14,23 +14,20 @@ Main functions:
 
 ### Microcontroller
 - stmf103c8t6
-- Handles real-time control loops, sensor acquisition, and communication
-- Interrupt-driven architecture for deterministic timing
 
 ### Power System
-- 12 V input
-- On-board DC-DC converter for regulated logic supply
+- 12 V lithium ion battery input
 
 ### Motor Control
-- External motor driver module interface
-- Separate connectors for Motor 1 and Motor 2
+- 2x PH2.0-6Pin
 
 ### Sensors & Peripherals
 - MPU6050 IMU
-- Ultrasonic sensor
-- OLED display
+- HC-SR04 Ultrasonic sensor
+- 0.96inch OLED display
 - JDY-31 Bluetooth module
 - TB6612FNG Motor Driver
+- 12V-5V DCDC converter
 
 ## Tools
 - PCB Design: Altium Designer  
