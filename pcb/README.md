@@ -13,7 +13,7 @@ Main functions:
 ## Key Components & Interfaces
 
 ### Microcontroller
-- **stmf103c8t6 (Blue Pill footprint)**
+- stmf103c8t6
 - Handles real-time control loops, sensor acquisition, and communication
 - Interrupt-driven architecture for deterministic timing
 
@@ -30,7 +30,7 @@ Main functions:
 - Ultrasonic sensor
 - OLED display
 - JDY-31 Bluetooth module
--TB6612FNG Motor Driver
+- TB6612FNG Motor Driver
 
 ## Tools
 - PCB Design: Altium Designer  
