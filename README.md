@@ -23,28 +23,20 @@ This repository includes firmware (`src/`) and custom control PCB design assets 
 
 ## Hardware Overview
 Typical setup for this project:
-- MCU: **STM32F103C8T6 (Blue Pill form factor)**
+- MCU: **STM32F103C8T6 **
 - IMU: **MPU6050**
-- Motor driver module + two DC motors
-- Optional peripherals: OLED, JDY-31 Bluetooth, ultrasonic sensor
+- TB6612FNG Motor driver module + two MG513P30 hall encoder dc motor
+- 0.96-inch OLED display, JDY-31 Bluetooth module, hc-sr04 ultrasonic sensor
 - Power input: **12 V** (regulated on-board via DC-DC)
 
 ---
 
-## PCB (Custom Control Board)
+## PCB
 The PCB integrates power input, DC-DC regulation, STM32 header footprint, and connectors for sensors and peripherals.
 
-![PCB Layout](images/pcb_overall.png)
+![PCB Layout](pcb/3D_pcb)
 
 If you want the PCB-specific README, see: [`pcb/`](pcb)
-
-### Hall Encoder Wiring (if applicable)
-1. Motor −  
-2. Encoder Power (VCC)  
-3. Encoder Output A (Channel A)  
-4. Encoder Output B (Channel B)  
-5. Encoder Ground (GND)  
-6. Motor +  
 
 ---
 
