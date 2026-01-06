@@ -3,8 +3,6 @@
 Self-balancing robot built on **STM32F103 (Blue Pill)** with **MPU6050 IMU** and real-time control.  
 This repository includes firmware (`src/`) and custom control PCB design assets (`pcb/`).
 
-> Keywords: STM32F103C8T6, MPU6050, PID control, timers/interrupts, motor driver, Bluetooth (JDY-31), OLED, ultrasonic sensor
-
 ---
 
 ## showcase
