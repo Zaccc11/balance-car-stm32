@@ -5,19 +5,20 @@ This repository includes firmware (`src/`) and custom control PCB design assets 
 
 ---
 
-## showcase
-![DEMO](images/Balance_Car.jpg)
-
--  [`images/`](images) / [`pcb/`](pcb) 
-
----
-
 ## What I Built
 - **Real-time control firmware** on STM32 (interrupt/timer driven)
 - **Nested PID control** for balancing (and optional velocity loop / remote control input)
 - **IMU interface** (MPU6050 over I²C) for tilt estimation
 - **Peripheral interfaces** for OLED display, Bluetooth module (JDY-31), and ultrasonic sensor
 - **Custom control PCB** integrating MCU, power regulation, and connectors
+## showcase
+
+---
+
+![DEMO](images/Balance_Car.jpg)
+
+-  [`images/`](images) / [`pcb/`](pcb) 
+
 
 ---
 
