@@ -15,7 +15,7 @@ This repository includes firmware (`src/`) and custom control PCB design assets 
 
 ---
 
-![DEMO](images/Balance_Car_Demo)
+![DEMO](images/Balance_Car_Demo.gif)
 
 -  [`images/`](images) / [`pcb/`](pcb) 
 
