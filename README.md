@@ -32,7 +32,7 @@ Typical setup for this project:
 ## PCB
 The PCB integrates power input, DC-DC regulation, STM32 header footprint, and connectors for sensors and peripherals.
 
-![PCB Layout](pcb/3D_pcb)
+![PCB Layout](pcb/3D_PCB)
 
 If you want the PCB-specific README, see: [`pcb/`](pcb)
 
