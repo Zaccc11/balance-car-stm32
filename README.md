@@ -21,10 +21,10 @@ This repository includes firmware (`src/`) and custom control PCB design assets 
 
 ## Hardware Overview
 Typical setup for this project:
-- MCU: **STM32F103C8T6 **
+- MCU: **STM32F103C8T6**
 - IMU: **MPU6050**
 - TB6612FNG Motor driver module + two MG513P30 hall encoder dc motor
-- 0.96-inch OLED display, JDY-31 Bluetooth module, hc-sr04 ultrasonic sensor
+- 0.96-inch OLED display, JDY-31 Bluetooth module, HC-SR04 ultrasonic sensor
 - Power input: **12 V** (regulated on-board via DC-DC)
 
 ---
