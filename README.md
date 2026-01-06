@@ -7,9 +7,8 @@ This repository includes firmware (`src/`) and custom control PCB design assets 
 
 ---
 
-## Demo
-- Video/GIF: **(add link here)**
-- Photos / PCB screenshots: see [`images/`](images)
+## showcase
+-  [`images/`](images) / [`pcb/`](pcb) 
 
 ---
 
