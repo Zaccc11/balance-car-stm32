@@ -26,8 +26,8 @@ Main functions:
 - HC-SR04 Ultrasonic sensor
 - 0.96inch OLED display
 - JDY-31 Bluetooth module
-- TB6612FNG Motor Driver
-- 12V-5V DCDC converter
+- TB6612FNG Motor driver
+- MP1584EN 12V-5V DCDC converter
 
 ## Tools
 - PCB Design: Altium Designer  
